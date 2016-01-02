@@ -1,14 +1,7 @@
-Name: Sina Motevalli Bashi
-Student id: 20455091
 
-These are a few points about my implementation and features of my program
+This was a UI course project, the purpose of which includes working with event loops that underlies all GUI programs.
 
-1) There is flag calles "sina" that is set to true in the makefile, to be able to pass in command line arguments for
-Frame-per-second and the speed of ball, that flag should be set to false
+I used painter's algorithm and double buffering in this project.
 
-2) The game opens with a splash screen that is basically a help page, to close the splash screen and get into the game press 'h'
-
-3) When in game press 's' to start, 'p' to pause and 'q' to quit
-
-4) My added feature is the following: A number of randomly chosen bricks are colored pink, if the ball hits any of them, the paddle gets
-larger for a few seconds
+For more information, here is a link to the full description of the assignment:
+https://www.student.cs.uwaterloo.ca/~cs349/f15/a1.html
